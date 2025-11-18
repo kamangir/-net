@@ -4,11 +4,11 @@ ICON = "📜"
 
 DESCRIPTION = f"{ICON} kamangir writes here."
 
-VERSION = "6.4.1"
+VERSION = "6.5.1"
 
 REPO_NAME = "blog"
 
-MARQUEE = "https://github.com/kamangir/assets2/blob/main/blog/blog.png?raw=true"
+MARQUEE = "https://github.com/kamangir/assets2/blob/main/blog/blog-v2.png?raw=true"
 
 
 ALIAS = "@blog"
