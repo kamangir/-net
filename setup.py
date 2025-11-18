@@ -10,17 +10,6 @@ setup(
     description=DESCRIPTION,
     packages=[
         NAME,
-        f"{NAME}.help",
-        f"{NAME}.help.node",
-        f"{NAME}.node",
     ],
     include_package_data=True,
-    package_data={
-        NAME: [
-            "config.env",
-            "sample.env",
-            ".abcli/**/*.sh",
-        ],
-    },
 )
-

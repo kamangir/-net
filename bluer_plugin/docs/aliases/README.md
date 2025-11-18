@@ -1,3 +1,0 @@
-# aliases
-
-- [@plugin](./plugin.md)
